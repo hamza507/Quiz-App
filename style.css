@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(173, 216, 230, 0.253);
+    color: white;
+    
+}
+.container{
+    background-color: green;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 10px;
+   
+}
+h1{
+    font-size: 60px;
+    color: yellow;
+    text-align: center;
+}
+h3{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.submit{
+    cursor: pointer;
+    background-color: yellow;
+    margin-left: 50px;
+    font-size: 20px;
+}
+input{
+    margin-left: 40px;
+    cursor: pointer;
+    
+}
+
+footer p {
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
